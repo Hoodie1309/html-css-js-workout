@@ -10,4 +10,4 @@ const changingColorBox = () => {
 	i = (i + 1) % colors.length
 }
 
-setInterval(changingColorBox, 4000)
+setInterval(changingColorBox, 3000)
